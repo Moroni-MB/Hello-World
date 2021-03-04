@@ -5,4 +5,4 @@
 - MTA 98-361 (Microsoft C# Certification)
 - MTA 98-381 (Microsoft Python Certification)
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fchannellife.com.au%2Fstory%2Fquantum-technology-holds-huge-potential-in-australia-report&psig=AOvVaw0fHF0PM1fF9kTk9rnu6fIh&ust=1614974164271000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICxz-C1l-8CFQAAAAAdAAAAABAD">
+<img src="https://channellife.com.au/uploads/story/2020/05/22/quantum_computing.jpg">
