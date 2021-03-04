@@ -5,27 +5,4 @@
 - MTA 98-361 (Microsoft C# Certification)
 - MTA 98-381 (Microsoft Python Certification)
 
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Moroni-MB/Hello-World/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fchannellife.com.au%2Fstory%2Fquantum-technology-holds-huge-potential-in-australia-report&psig=AOvVaw0fHF0PM1fF9kTk9rnu6fIh&ust=1614974164271000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICxz-C1l-8CFQAAAAAdAAAAABAD">
