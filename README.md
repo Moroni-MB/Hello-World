@@ -1,5 +1,5 @@
 <h1>Information</h1>
-<p>Hello! My name is Moroni Montoya and I am a senior in High school meaning that I will be graduating on May 2021! I have some background with multiple computer languages like HTML, CSS, C#, JS, and more...</p>
+<p>Hello! My name is Moroni Montoya Bernal, I just graduated from Higley High School and the East Valley Institute of Technology (EVIT). Through EVIT I have been exposed to computer programming and mobile software development using multiple computer languages like HTML, C#, Python, Kotlin among others...</p>
 
 # Certifications
 - MTA 98-361 (Microsoft C# Certification)
